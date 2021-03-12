@@ -1,4 +1,0 @@
-## the path for which the header must be set:
-/*
-## the actual header:  
-Content-Security-Policy: default-src 'self'; 
